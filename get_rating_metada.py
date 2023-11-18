@@ -6,7 +6,7 @@ url = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json'
 
 api_key = os.getenv('API_KEY')
 
-with open('file_rating_updated.geojson', 'r') as geojson_file:
+with open('file_replaced.geojson', 'r') as geojson_file:
     geojson_data = json.load(geojson_file)
 
 
