@@ -1,3 +1,7 @@
 views/
 img/
 files/
+*.kml
+*.kmz
+*.geojson
+*.json
