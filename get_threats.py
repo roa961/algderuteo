@@ -60,10 +60,10 @@ def check_weight(type_name, subtype):
 url = 'https://www.waze.com/live-map/api/georss'
 
 params = dict(
-    top='-33.358724',
-    bottom='-33.449508',
-    left='-70.642729',
-    right='-70.507023',
+    top='-33.348488',
+    bottom='-33.605715',
+    left='-70.792061',
+    right='-70.514611',
     env='row',
     types='alerts,traffic'
 )
