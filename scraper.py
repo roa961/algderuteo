@@ -101,6 +101,10 @@ print(f'{len(names) = }')
 
 print('Scraping images...')
 
+momuments_inter = set([mon[0].lower() for mon in monument_info]).intersection(names_lower)
+
+monument_info = [mon for mon in monument_info if mon[0].lower() in momuments_inter]
+
 images = []
 
 with ThreadPoolExecutor(max_workers=10) as executor:
