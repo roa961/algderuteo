@@ -28,11 +28,11 @@ cursor.execute('''
     )
 ''')
 
-# for values in rating:
-#     cursor.execute('''
-#         INSERT INTO metadata (id, nombre, rating )
-#         VALUES (%s, %s, %s)
-#     ''', (values['id'], values['name'], values['rating']))
+for rat in rating:
+    cursor.execute('''
+        INSERT INTO metadata (id, nombre, rating )
+        VALUES (%s, %s, %s)
+    ''', (rat['id'], rat['name'], rat['rating']))
 
 for desc in description:
     cursor.execute('''
@@ -44,10 +44,8 @@ for img in images:
     cursor.execute('''
         UPDATE metadata SET imagenes = %s
         where id = %s
-    ''', (img['images'], desc['id']) )
+    ''', (img['images'], img['id']) )
 
 
-
-# Commit changes and close connection
 conn.commit()
 conn.close()
