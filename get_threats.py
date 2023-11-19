@@ -4,10 +4,10 @@ import json
 url = 'https://www.waze.com/live-map/api/georss'
 
 params = dict(
-    top='-32.916667',
-    bottom='-34.316667',
-    left='-71.716667',
-    right='-69.783333',
+    top='-33.358724',
+    bottom='-33.449508',
+    left='-70.642729',
+    right='-70.507023',
     env='row',
     types='alerts,traffic'
 )
