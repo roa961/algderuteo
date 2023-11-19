@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # This script downloads the kmz file from monumentos.gob.cl and transforms it to geojson
-if [ ! -f "monumentos.kmz" ]; then
+if [ ! -f "consejo_de_monumentos_nacionales-1_0.kmz" ]; then
     wget https://www.monumentos.gob.cl/sites/default/files/consejo_de_monumentos_nacionales-1_0.kmz
 fi
 
