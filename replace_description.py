@@ -2,7 +2,7 @@ import json
 from os import makedirs
 import re
 
-regex = re.compile(r'Región</td>\n\n<td>(.*?)</td>')
+regex = re.compile(r'Provincia</td>\n\n<td>(.*?)</td>')
 
 with open('./file.geojson', 'r') as f:
     text = f.read()
@@ -18,8 +18,8 @@ for feature in data['features']:
     filename = f'./views/{id_feature}.html'
     description = feature['properties']['description'].replace(r'\n\n', '\n').replace(r'\t\t', '')
     feature['properties']['description'] = filename
-    region = regex.search(description).group(1).strip()
-    if region != 'Metropolitana de Santiago' or feature['properties']['icon'] != "files/Layer0_Symbol_84674c30_0.png":
+    provincia = regex.search(description).group(1).strip()
+    if provincia != 'Santiago' or feature['properties']['icon'] != "files/Layer0_Symbol_84674c30_0.png":
         continue
     exported_features.append(feature)
     with open(filename, 'w') as f:

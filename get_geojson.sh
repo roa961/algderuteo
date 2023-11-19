@@ -5,12 +5,12 @@ if [ ! -f "monumentos.kmz" ]; then
     wget https://www.monumentos.gob.cl/sites/default/files/consejo_de_monumentos_nacionales-1_0.kmz
 fi
 
-if [ ! -f "monumentos.kml" ]; then
+if [ ! -f "doc.kml" ]; then
     unzip consejo_de_monumentos_nacionales-1_0.kmz
 fi
 
-if [ ! -f "monumentos.geojson" ]; then
-    npx @mapbox/togeojson monumentos.kml > monumentos.geojson
+if [ ! -f "file.geojson" ]; then
+    npx @mapbox/togeojson doc.kml > file.geojson
 fi
 
 python3 replace_description.py
