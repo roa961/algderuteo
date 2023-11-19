@@ -1,14 +1,15 @@
 import json
 import requests
-import os
 
-api_key = 'AIzaSyCKrq10m3W__m0ug4s5Vf9MKLBDudQNLcU'
+# Your API key
+api_key = ''
+
 url = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json'
 
 with open('file_replaced.geojson', 'r') as geojson_file:
     geojson_data = json.load(geojson_file)
 
-id_rating_list = []
+id_name_rating_list = []
 
 for feature in geojson_data['features']:
     params = {
@@ -22,18 +23,20 @@ for feature in geojson_data['features']:
         data = response.json()
         rating = data["candidates"][0]["rating"]
         feature_id = feature.get('id', None)  
+        feature_name = feature['properties'].get('name', None) 
         feature['properties']['rating'] = rating
         print(data["candidates"][0]["photos"])
 
-        id_rating_list.append((feature_id, rating))
+        id_name_rating_list.append({'id': feature_id, 'name': feature_name, 'rating': rating})
     except:
         rating = 0
         feature['properties']['rating'] = rating
         feature_id = feature.get('id', None)  
+        feature_name = feature['properties'].get('name', None)  
 
-        id_rating_list.append((feature_id, rating))
+        id_name_rating_list.append({'id': feature_id, 'name': feature_name, 'rating': rating})
 
-with open('rating_metadata.json', 'w') as id_rating_file:
-    json.dump(id_rating_list, id_rating_file, indent=2)
+with open('id_name_rating_data.json', 'w') as id_name_rating_file:
+    json.dump(id_name_rating_list, id_name_rating_file, indent=2)
 
-print("rating añadido ")
+print("ID, Name, and Rating information saved to id_name_rating_data.json")
