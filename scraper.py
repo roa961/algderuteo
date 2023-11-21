@@ -154,9 +154,6 @@ with ThreadPoolExecutor(max_workers=10) as executor:
     for future in as_completed(futures):
         monument_info.extend(future.result())
 
-with open('./monumentos.json', 'w') as f:
-    f.write(json.dumps(monument_info, indent=4))
-
 names_lower = set(map(lambda x: x.lower(), names))
 page_names_lower = set(map(lambda x: " ".join(x[0].split()).lower(), monument_info))
 missing_file = names_lower - page_names_lower
@@ -188,5 +185,24 @@ with ThreadPoolExecutor(max_workers=10) as executor:
 
     for future in as_completed(futures):
         future.result()
+
+id_to_image_path= {}
+
+for feature in data['features']:
+    names = [mon[0] for mon in monument_info]
+
+    if feature['properties']['name'] not in names:
+        continue
+
+    idx = names.index(feature['properties']['name'])
+
+    name, _ = monument_info[idx]
+
+    id_mon = feature['id']
+
+    id_to_image_path[id_mon] = f"img/{name.replace(' ', '_')}"
+
+with open('metadata_images.json', 'w') as f:
+    json.dump(id_to_image_path, f, indent=4)
 
 print('Done!')
