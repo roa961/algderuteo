@@ -74,6 +74,8 @@ mismatching_data = {
     'casa y parque de la quinta las rosas de maipú': 'Casa y Parque de la Quinta de Las Rosas de Maipú'
 }
 
+monument_with_img = []
+
 def download_image(url, name):
     response = requests.get(url)
     with open(f'img/{name}.jpg', 'wb') as f:
@@ -108,6 +110,7 @@ def scrape_images(monument):
     print(f'{name} has {len(slides)} images')
 
     os.makedirs(f'img/{name}', exist_ok=True)
+    monument_with_img.append(name)
 
     return [(slide.find('img')['src'], f'{name}/{i}') for i, slide in enumerate(slides) if slide.find('img') is not None]
 
@@ -186,7 +189,7 @@ with ThreadPoolExecutor(max_workers=10) as executor:
     for future in as_completed(futures):
         future.result()
 
-id_to_image_path= {}
+id_to_image_path= []
 
 for feature in data['features']:
     names = [mon[0] for mon in monument_info]
@@ -198,9 +201,12 @@ for feature in data['features']:
 
     name, _ = monument_info[idx]
 
+    if name.replace(' ', '_') not in monument_with_img:
+        continue
+
     id_mon = feature['id']
 
-    id_to_image_path[id_mon] = f"img/{name.replace(' ', '_')}"
+    id_to_image_path.append({'id': id_mon, 'img': f'img/{name.replace(" ", "_")}/'})
 
 with open('metadata_images.json', 'w') as f:
     json.dump(id_to_image_path, f, indent=4)
