@@ -12,7 +12,7 @@ conn = psycopg2.connect(
     dbname="monumentos",
     user="postgres",
     password="postgres",
-    host="172.19.0.2",
+    host="172.18.0.2",
     port="5432"
 )
 cursor = conn.cursor()
@@ -44,7 +44,7 @@ for img in images:
     cursor.execute('''
         UPDATE metadata SET imagenes = %s
         where id = %s
-    ''', (img['images'], img['id']) )
+    ''', (img['img'], img['id']) )
 
 
 conn.commit()
