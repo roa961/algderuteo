@@ -5,3 +5,8 @@ files/
 *.kmz
 *.geojson
 *.json
+bin/
+include/
+lib/
+/lib64
+/node_modules
