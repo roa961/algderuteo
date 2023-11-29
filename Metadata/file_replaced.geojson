@@ -1,0 +1,4555 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6789297548043,
+                    -33.45173017114158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Conjunto de Edificios de la Estaci\u00f3n Central de Ferrocarriles o Estaci\u00f3n Alameda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00460.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00460"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68631566823348,
+                    -33.45041040884444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Escuela de Artes y Oficios",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00461.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00461"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68415053691768,
+                    -33.4445895028345,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex Pabell\u00f3n de la Exposici\u00f3n de Par\u00eds",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00462.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00462"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67682294632186,
+                    -33.47485083532862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maestranza de Ferrocarriles San Eugenio y edificaciones anexas",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00463.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00463"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62392750355139,
+                    -33.39388239119123,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casas patronales, bodegas y parque del ex Fundo El Salto o Palacio Riesco",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00467.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00467"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66033982022651,
+                    -33.42630891255766,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y Convento Buen Pastor",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00468.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00468"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65399624712904,
+                    -33.41946999647467,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Capilla del Antiguo Lazareto de San Vicente de Paul",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00470.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00470"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65330397869565,
+                    -33.42929009948987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y patios del Monasterio del Carmen de San Rafael",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00471.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00471"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65487353938232,
+                    -33.42411976484674,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cervecer\u00eda de Andr\u00e9s Ebner",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00472.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00472"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.56198409858723,
+                    -33.40648894733873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa y Parque del Instituto Cultural de las Condes, ex Chacra el Rosario",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00474.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00474"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.51361212609868,
+                    -33.38411261873437,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y conjunto de edificios del Monasterio Benedictino",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00475.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00475"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.50485073827093,
+                    -33.3758338403915,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casona de Las Condes",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00477.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00477"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.54193854832533,
+                    -33.40762483604899,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de San Vicente Ferrer de Los Dominicos",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00478.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00478"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.58735232325108,
+                    -33.45637062523522,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de la Cultura de \u00d1u\u00f1oa (Palacio Ossa)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00481.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00481"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66361464030336,
+                    -33.48754923294138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa patronal ex chacra Ochagav\u00eda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00484.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00484"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.52137318272617,
+                    -33.46843411587264,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casas y Parque de Pe\u00f1alol\u00e9n (Parque Arrieta)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00485.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00485"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61655631202416,
+                    -33.4275641080286,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Parroquial Nuestra Se\u00f1ora de La Divina Providencia con su casa parroquial y construcciones adyacentes",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00487.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00487"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60629743337978,
+                    -33.4204820962033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mural de Pedro Lira",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00488.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00488"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6476010988116,
+                    -33.4303872561983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y Convento de la Recoleta Franciscana",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00490.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00490"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64472356504047,
+                    -33.42389854601253,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y Convento Recoleta Dominica",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00492.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00492"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64738951531382,
+                    -33.43118011020528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa del Pilar de Esquina",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00494.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00494"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64443447796873,
+                    -33.41651241854485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plazoleta de piedras tacitas",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00495.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00495"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64176949626523,
+                    -33.40216195014562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Quinta Bella",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00496.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00496"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.647578069872,
+                    -33.44387305073192,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y Convento de San Francisco",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00514.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00514"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65069964277427,
+                    -33.43703128289871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio de la Real Audiencia y Cajas Reales",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00515.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00515"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65861256971431,
+                    -33.43782638251283,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Santa Ana",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00516.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00516"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64812502315124,
+                    -33.43455907537232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Posada del Corregidor",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00517.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00517"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64773972211043,
+                    -33.44041166539728,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plazoleta Patricio Mekis y conjunto de elementos y espacios arquitect\u00f3nicos que enfrentan dichos inmuebles",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00521.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00521"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65598721393872,
+                    -33.43928620522542,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio de La Alhambra",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00525.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00525"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64750455838862,
+                    -33.4411313820389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Municipal de Santiago",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00526.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00526"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65817061857916,
+                    -33.44023785882138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Pereira",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00527.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00527"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6530125246083,
+                    -33.44234065452881,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Intendencia de Santiago (Ex edificio del Diario Ilustrado)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00528.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00528"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65040538639943,
+                    -33.4370507873952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Municipalidad de Santiago (Edificio Consistorial Santiago)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00529.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00529"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64654471106951,
+                    -33.43822341700834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de La Merced y parte del Convento",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00530.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00530"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64304562885263,
+                    -33.44930229569554,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de San Isidro Labrador",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00532.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00532"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65133090569668,
+                    -33.44220650805514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de Las Agustinas",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00533.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00533"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66179407433702,
+                    -33.44135871896093,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bas\u00edlica de El Salvador",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00534.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00534"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65665337595249,
+                    -33.45223416380671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Cousi\u00f1o y Jardines",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00535.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00535"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64908180378217,
+                    -33.44087467415812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de San Agust\u00edn",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00536.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00536"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65162100360641,
+                    -33.44214200508069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio del Banco de Santiago (ex Hotel Mundial)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00537.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00537"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64130679057587,
+                    -33.43873999298752,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de la Veracruz y casas contiguas a ambos lados de la iglesia",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00538.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00538"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65722660832125,
+                    -33.4449479950851,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex Casa Rivas, conocida tambi\u00e9n como la antigua Ferreter\u00eda Montero",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00541.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00541"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64338130440365,
+                    -33.43932704433891,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cerro Santa Luc\u00eda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00542.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00542"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6385453278046,
+                    -33.45773047121531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia del Sant\u00edsimo Sacramento",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00543.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00543"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65160054223122,
+                    -33.43269694453971,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Restos del Puente Cal y Canto",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00544.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00544"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65110377202143,
+                    -33.45548157434624,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bas\u00edlica Coraz\u00f3n de Mar\u00eda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00545.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00545"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6658507020482,
+                    -33.44694689301584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Carrera",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00546.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00546"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65621407332077,
+                    -33.4570397415219,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Antigua Escuela Militar",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00547.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00547"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64920380491162,
+                    -33.45143255310094,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bas\u00edlica Los Sacramentinos",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00548.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00548"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66076956216551,
+                    -33.4521948463462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de San L\u00e1zaro",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00549.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00549"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6569067005837,
+                    -33.43899969471143,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Matte",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00550.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00550"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63923288828715,
+                    -33.43723613946758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Bruna",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00551.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00551"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64549305466073,
+                    -33.44617277548438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Los Diez",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00552.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00552"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55392153794855,
+                    -33.38256876426905,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casas de La Chacra Manquehue (Lo Gallo)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00556.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00556"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.54434573216975,
+                    -33.38784073219596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Lo Matta",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00557.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00557"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64750426700829,
+                    -33.4382641544984,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa del Presidente Manuel Montt",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00562.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00562"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65902896481481,
+                    -33.44030805630303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio de la Ex-Nunciatura Apost\u00f3lica",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00564.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00564"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64878834060937,
+                    -33.42264494054302,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Grez y Lavander\u00eda del Instituto Psiqui\u00e1trico Dr. Jos\u00e9 Horwitz",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00569.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00569"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67046707409617,
+                    -33.45933166105834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificios del Club H\u00edpico",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00720.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00720"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6323098478212,
+                    -33.42208377257953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Segunda Cumbre del Parque Metropolitano de Santiago",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00731.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00731"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64802629737568,
+                    -33.44433936719925,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Londres 38. Espacio de Memorias. Ex centro clandestino de detenci\u00f3n, tortura, ejecuci\u00f3n y desaparici\u00f3n forzada",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00738.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00738"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68536582677143,
+                    -33.45317832335202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Catedral Evang\u00e9lica de Chile",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00739.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00739"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65349200535172,
+                    -33.41453673391471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hospital San Jos\u00e9",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00740.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00740"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.58374316761308,
+                    -33.41809461110892,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Asturias N\u00b0400",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00741.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00741"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7577283264011,
+                    -33.49320300984159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa y Parque de la Quinta de Las Rosas de Maip\u00fa",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00742.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00742"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.75524742692716,
+                    -33.49470930322234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cerro Primo de Rivera o Los Pajaritos",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00743.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00743"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.76531357636043,
+                    -33.51124465834466,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muros de La antigua Iglesia de Maip\u00fa",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00744.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00744"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63383307723467,
+                    -33.43901149021936,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa del Escritor",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00745.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00745"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61793214615159,
+                    -33.41983852695794,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa lo Contador",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00746.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00746"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63491487622053,
+                    -33.43530830506553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Escuela de Derecho de la Universidad de Chile",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00747.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00747"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62929455859694,
+                    -33.43159406274713,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Epifan\u00eda del Se\u00f1or",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00748.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00748"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63359919594609,
+                    -33.44115603785211,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museo Benjam\u00edn Vicu\u00f1a Mackenna",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00749.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00749"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.69449470096964,
+                    -33.34155656551562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casas de San Ignacio de Quilicura",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00751.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00751"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64844872962516,
+                    -33.40853870372986,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Patio N\u00b029, actual N\u00b0 162, del Cementerio General",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00752.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00752"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6451639288722,
+                    -33.42186229923723,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia La Vi\u00f1ita",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00753.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00753"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64342745311444,
+                    -33.42967689340529,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Parroquial Santa Filomena",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00754.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00754"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62012107262933,
+                    -33.50619373478345,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Campo de Prisioneros Pol\u00edticos Tres y Cuatro \u00c1lamos",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00755.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00755"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63810475263222,
+                    -33.4595767514969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asilo de Ancianos de la Congregaci\u00f3n de las hermanitas de los pobres",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00759.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00759"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65157463995763,
+                    -33.44274766340518,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bolsa de Comercio",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00760.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00760"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63847149706191,
+                    -33.45121202314748,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Calzada de la calle Antonio Ricaurte",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00761.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00761"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65085849002725,
+                    -33.44456770057013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa Central de la Universidad de Chile",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00762.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00762"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65382689669389,
+                    -33.43728890269198,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Club de Septiembre (Casa Edwards)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00763.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00763"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68046516913222,
+                    -33.4420904064783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Consultorio Externo del Hospital San Juan de Dios",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00764.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00764"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65276698990465,
+                    -33.45543125817706,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Consultorio N\u00b01 Doctor Ram\u00f3n Corbal\u00e1n Melgarejo",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00765.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00765"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64951786076062,
+                    -33.43845445643929,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio Comercial Edwards",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00766.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00766"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65109775735556,
+                    -33.4370017869342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Correo Central",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00767.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00767"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65104765342642,
+                    -33.43646304716322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio del Cuerpo de Bomberos de Santiago",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00768.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00768"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65836882106419,
+                    -33.45701363869951,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex Arsenales de Guerra",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00769.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00769"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65327180994603,
+                    -33.43813442819258,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio del Congreso Nacional",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00770.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00770"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65347398023994,
+                    -33.43298464575614,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hotel Bristol",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00771.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00771"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64072505511717,
+                    -33.46146502112482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pabell\u00f3n Valent\u00edn Err\u00e1zuriz y otros pabellones del Hospital San Borja Arriar\u00e1n",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00772.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00772"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65387505988605,
+                    -33.44280937848126,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio de La Moneda - Antigua Real casa de Moneda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00773.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00773"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65307120717046,
+                    -33.43915254168772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio de los Tribunales de Justicia",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00774.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00774"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66515612415577,
+                    -33.44625166221559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Elgu\u00edn",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00775.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00775"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6521953070677,
+                    -33.43890009119754,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex Palacio viejo de los Tribunales, antiguo Palacio de la Aduana de Santiago",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00776.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00776"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63701273195198,
+                    -33.43746929410393,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sede Nacional del Colegio de Arquitectos de Chile A.G",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00777.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00777"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65052437929666,
+                    -33.44820008929384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Cariola",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00778.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00778"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65555933359633,
+                    -33.46202359814152,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Parque Cousi\u00f1o (ex Humoresque)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00779.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00779"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60983854721115,
+                    -33.43223324240159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Falabella",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00780.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00780"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63236468668089,
+                    -33.54368439255062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mural El primer Gol del Pueblo Chileno de Roberto Matta",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00781.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00781"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65510497181697,
+                    -33.43904289544452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio Sede del Tribunal Calificador de Elecciones",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00782.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00782"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66001325660648,
+                    -33.41172125696208,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Av. Francia N\u00b0 1442",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00783.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00783"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65143539522728,
+                    -33.44335506821303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Club de la Uni\u00f3n",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00784.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00784"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.51717513392526,
+                    -33.5305101348649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio donde ocurri\u00f3 la Matanza de Lo Ca\u00f1as",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00785.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00785"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63385835807674,
+                    -33.44069822807199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa ubicada en Av. Vicu\u00f1a Mackenna N\u00ba 84",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00786.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00786"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64227256622593,
+                    -33.41302611479497,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cementerio Cat\u00f3lico",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00787.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00787"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6228365116956,
+                    -33.41583535315059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mural obra de Mar\u00eda Martner y de Juan O'Gorman del Balneario Tupahue",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00788.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00788"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65458235419226,
+                    -33.41796998485849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Anfiteatro del Instituto de Anatom\u00eda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00790.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00790"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65347818816781,
+                    -33.43123662180404,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Antiguo edificio del Instituto de Higiene",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00791.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00791"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65450730936482,
+                    -33.43222467006382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Estaci\u00f3n Mapocho (CCEM)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00792.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00792"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65104244994905,
+                    -33.43378255844962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mercado Central",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00793.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00793"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66507664926792,
+                    -33.53895284972424,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio ubicado en Gran Avenida Jos\u00e9 Miguel Carrera N\u00ba 8925, ex casa de la cultura de La Cisterna",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00794.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00794"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66123858019625,
+                    -33.52380601906272,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Inmueble conocido como \u201cNido 20\u201d",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00795.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00795"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55175607118571,
+                    -33.41060397522493,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa presidencial de Tom\u00e1s Moro",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00796.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00796"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61724269619344,
+                    -33.45628220119365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio hist\u00f3rico ubicado en Av. Jos\u00e9 Domingo Ca\u00f1as N\u00ba 1367",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00797.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00797"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.54250499620855,
+                    -33.46366408386131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parque por La Paz Villa Grimaldi",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00798.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00798"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62237426106327,
+                    -33.44390844894698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa del ex Presidente de la Rep\u00fablica don Eduardo Frei Montalva",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00799.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00799"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63578746412014,
+                    -33.42999138092889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Funicular del cerro San Crist\u00f3bal",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00800.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00800"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61247407881564,
+                    -33.42516327789441,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palacio Schacht",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00801.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00801"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63415607504277,
+                    -33.43120074514964,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Pablo Neruda, ubicada en calle Fernando M\u00e1rquez de la Plata N\u00b0019",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00802.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00802"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63001971883494,
+                    -33.43647245137384,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Templo parroquial de los Santos \u00c1ngeles Custodios",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00803.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00803"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62458515168339,
+                    -33.43701593956523,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio del Hospital del Salvador",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00804.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00804"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64856658398065,
+                    -33.44495213016784,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio de calle Londres N\u00ba 65 y 67",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00806.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00806"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67895008487847,
+                    -33.44446476956466,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio de la ex Direcci\u00f3n General de Aprovisionamiento del Estado",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00807.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00807"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63521409955104,
+                    -33.43946318640815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sede de la Embajada de Argentina en Chile",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00808.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00808"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6457031947466,
+                    -33.43594913677454,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio sede del Colegio de Enfermeras de Chile A. G.",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00809.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00809"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64768218618389,
+                    -33.43532518983695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de San Pedro",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00810.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00810"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68118872228166,
+                    -33.44305999075717,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Invernadero de la Quinta Normal",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00811.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00811"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68178677683824,
+                    -33.44153483409654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio del Museo Nacional de Historia Natural",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00812.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00812"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65143886121444,
+                    -33.4743259100435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Huem\u00fal",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00813.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00813"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64718097692048,
+                    -33.435540309469,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa llamada de Velasco",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00814.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00814"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64920238128485,
+                    -33.43860336528437,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa Colorada",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00815.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00815"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6513886808429,
+                    -33.43790823610746,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Templo parroquial de El Sagrario",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00816.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00816"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64584915291601,
+                    -33.44206116142468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Biblioteca Nacional",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00817.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00817"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64634151824646,
+                    -33.43540991586623,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Santo Domingo N\u00ba 627",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00818.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00818"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68804923738236,
+                    -33.52545055532902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio donde fueron encontrados los cuerpos de V\u00edctor Jara, Littre Quiroga y otras tres personas que no han sido identificadas",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00819.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00819"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64494145098712,
+                    -33.44059123213088,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex centro de detenci\u00f3n Cl\u00ednica Santa Luc\u00eda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00820.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00820"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67811756807129,
+                    -33.48857302205797,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casas de Andr\u00e9 Jarl\u00e1n y Pierre Dubois",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00821.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00821"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64788129968218,
+                    -33.45059748401778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sede Social y Espacio de Memoria de los trabajadores de la construcci\u00f3n, excavadores y alcantarilleros de la Regi\u00f3n Metropolitana",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00822.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00822"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65051572512056,
+                    -33.44017757276799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa Matriz del Banco de Chile",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00823.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00823"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65230965406727,
+                    -33.43136772587121,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Piscina Escolar de la Universidad de Chile",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00824.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00824"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65562563071825,
+                    -33.42892516899273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Consultorio N\u00b02",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00825.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00825"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6588027340589,
+                    -33.4452693462345,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sede Social de la Agrupaci\u00f3n Nacional de Empleados Fiscales (ANEF)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00826.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00826"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67294287081677,
+                    -33.438436340496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa de Ignacio Domeyko",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00827.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00827"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.68280639040256,
+                    -33.56284523474946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monumento a los M\u00e1rtires de la Aviaci\u00f3n Militar Chilena",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00828.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00828"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.57168371403213,
+                    -33.40352076820059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Villa Ministro Carlos Cort\u00e9s (Villa San Luis de Las Condes)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00829.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00829"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5875995441836,
+                    -33.48298666373424,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio de memoria centro de detenci\u00f3n denominado Venda Sexy - Discoteque",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00830.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00830"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67086598457746,
+                    -33.3963232105795,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa Consistorial de Conchal\u00ed. Ex casa patronal de la Chacra Lo Negrete",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00831.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00831"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67807422974187,
+                    -33.4419297713731,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Escuela Normal N\u00b01",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00833.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00833"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6476090605097,
+                    -33.44341754951151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia y convento de San Francisco",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00834.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00834"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.59968377408688,
+                    -33.48175829683866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex Casa V\u00e1squez (Edificio Consistorial de Macul)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00836.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00836"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.76531357636043,
+                    -33.51124465834466,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Templo Votivo Nacional",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00837.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00837"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61056736768984,
+                    -33.46604755528137,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Estadio Nacional",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00838.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00838"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65987917758196,
+                    -33.44476575196904,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sede de la Fundaci\u00f3n de Ayuda Social de las Iglesias Cristianas (FASIC)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00840.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00840"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65776342444246,
+                    -33.40015002643435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casona El Tilo",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00841.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00841"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65442208421177,
+                    -33.44142791010119,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio de Memoria Cuartel N\u00b01 del Servicio de Inteligencia de Carabineros (SICAR)",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00842.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00842"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65714951034158,
+                    -33.4472460893667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio Eguiguren Yrarr\u00e1zaval",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00843.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00843"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6572634238679,
+                    -33.44697696454646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa Vald\u00e9s Bustamante",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00844.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00844"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65727544600497,
+                    -33.44688275876346,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casa San Ignacio 85",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00845.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00845"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65428864010863,
+                    -33.44011644135198,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio de la ex Caja de Cr\u00e9dito Hipotecario",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00847.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00847"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65156554241582,
+                    -33.4382312671905,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ex Palacio Arzobispal",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00849.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00849"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65051055132085,
+                    -33.43566947189993,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de Santo Domingo",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00850.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00850"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67458032132475,
+                    -33.4507001362334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Estadio V\u00edctor Jara",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00851.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00851"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.656851225004,
+                    -33.44741859282495,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de San Ignacio",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00852.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00852"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63797285266497,
+                    -33.46541935185253,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Conjunto del Patronato San Antonio de Padua",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00853.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00853"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65192715441458,
+                    -33.4377242572999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Catedral de Santiago",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00857.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00857"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61698409883707,
+                    -33.47512049794342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bodegas de la Vi\u00f1a Santa Carolina",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00858.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00858"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64360885266638,
+                    -33.43531930557281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Museo Nacional de Bellas Artes, comprendiendo tambi\u00e9n la parte ocupada actualmente por el Museo de Arte Contempor\u00e1neo",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00859.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00859"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64524051783559,
+                    -33.44197084970617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edificio del Archivo Nacional",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00860.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00860"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65448954055984,
+                    -33.43094464521057,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio de Memoria Cuartel Borgo\u00f1o",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_00861.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_00861"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65011284413242,
+                    -33.41776394298314,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Casco Hist\u00f3rico del Cementerio General",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_01074.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_01074"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64381933359533,
+                    -33.44233852673288,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mural Paso Bajo Nivel Santa Luc\u00eda",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_01082.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_01082"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61298390808088,
+                    -33.42258768430567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Teatro Oriente",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_01084.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_01084"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66505822665579,
+                    -33.43732616969827,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Corpus Domini",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_01092.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_01092"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60475455827623,
+                    -33.41910921185217,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sitio de Memoria Centro Clandestino de Detenci\u00f3n Subterr\u00e1neo del ex Hospital Militar de Santiago",
+                "styleUrl": "#IconStyle006",
+                "styleHash": "-5241b58f",
+                "styleMapHash": {
+                    "normal": "#IconStyle005",
+                    "highlight": "#IconStyle002"
+                },
+                "icon": "files/Layer0_Symbol_84674c30_0.png",
+                "description": "./views/ID_01093.html",
+                "fill": "#000000",
+                "fill-opacity": 1,
+                "stroke-opacity": 0
+            },
+            "id": "ID_01093"
+        }
+    ]
+}
