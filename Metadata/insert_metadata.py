@@ -12,7 +12,7 @@ conn = psycopg2.connect(
     dbname="monumentos",
     user="postgres",
     password="postgres",
-    host="172.18.0.2",
+    host="172.18.0.2", ##Ingresar la dirección del host
     port="5432"
 )
 cursor = conn.cursor()
