@@ -1,0 +1,2399 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "alert_0000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.640997,
+                    -33.408046
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.662141,
+                    -33.432091
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.538384,
+                    -33.592595
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.62812,
+                    -33.461076
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 7,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.649077,
+                    -33.460286
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.637893,
+                    -33.481985
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643818,
+                    -33.42522
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_MISSING_SIGN",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60547,
+                    -33.413733
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.603964,
+                    -33.425252
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643247,
+                    -33.408082
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.642643,
+                    -33.408904
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.592039,
+                    -33.455396
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.692653,
+                    -33.454165
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.614712,
+                    -33.465778
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65499,
+                    -33.503482
+                ]
+            },
+            "properties": {
+                "type": "ACCIDENT",
+                "subtype": "ACCIDENT_MAJOR",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.667745,
+                    -33.420903
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.640598,
+                    -33.506968
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643266,
+                    -33.408394
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.70055,
+                    -33.50442
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.778124,
+                    -33.445902
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.631131,
+                    -33.492185
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 8,
+                "confidence": 1,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.668357,
+                    -33.426529
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.578154,
+                    -33.405817
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.700123,
+                    -33.522246
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.634222,
+                    -33.437236
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.610167,
+                    -33.414433
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643843,
+                    -33.474579
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.774219,
+                    -33.4501
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64398,
+                    -33.425325
+                ]
+            },
+            "properties": {
+                "type": "ACCIDENT",
+                "subtype": "ACCIDENT_MAJOR",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.625136,
+                    -33.524808
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 10,
+                "confidence": 2,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.653795,
+                    -33.439037
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.693042,
+                    -33.410297
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.616925,
+                    -33.465915
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 10,
+                "confidence": 0,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643298,
+                    -33.408779
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.764829,
+                    -33.540481
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.734931,
+                    -33.48417
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.528931,
+                    -33.472924
+                ]
+            },
+            "properties": {
+                "type": "JAM",
+                "subtype": "JAM_STAND_STILL_TRAFFIC",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.686575,
+                    -33.457676
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643194,
+                    -33.407017
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 9,
+                "confidence": 1,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.614707,
+                    -33.436171
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+                "reliability": 8,
+                "confidence": 0,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.714792,
+                    -33.50625
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 8,
+                "confidence": 0,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.580953,
+                    -33.402606
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 8,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.585916,
+                    -33.510012
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+                "reliability": 7,
+                "confidence": 0,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.581081,
+                    -33.402217
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 7,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64193,
+                    -33.409926
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.63686,
+                    -33.444516
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.767202,
+                    -33.448595
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.604446,
+                    -33.417643
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643341,
+                    -33.409338
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.667899,
+                    -33.545833
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0050",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.778424,
+                    -33.445794
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.618233,
+                    -33.549487
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.631556,
+                    -33.370747
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.580338,
+                    -33.40636
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.618622,
+                    -33.546546
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0055",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.627667,
+                    -33.455204
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.605223,
+                    -33.417344
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.564534,
+                    -33.511302
+                ]
+            },
+            "properties": {
+                "type": "ACCIDENT",
+                "subtype": "ACCIDENT_MAJOR",
+                "reliability": 8,
+                "confidence": 1,
+                "weight": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.752565,
+                    -33.385944
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.650175,
+                    -33.443626
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 8,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.579007,
+                    -33.410695
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.654272,
+                    -33.473232
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.701807,
+                    -33.520394
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.604712,
+                    -33.418325
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.79166,
+                    -33.505648
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0065",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.599818,
+                    -33.513838
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.647035,
+                    -33.447256
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.706835,
+                    -33.416596
+                ]
+            },
+            "properties": {
+                "type": "ACCIDENT",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.653982,
+                    -33.438789
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.693923,
+                    -33.408555
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.717019,
+                    -33.472217
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.631941,
+                    -33.442769
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.642661,
+                    -33.446145
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.582219,
+                    -33.404884
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.660193,
+                    -33.445324
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 8,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.660569,
+                    -33.429544
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0076",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.632829,
+                    -33.443036
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64644,
+                    -33.477964
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.742801,
+                    -33.543339
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.613675,
+                    -33.405777
+                ]
+            },
+            "properties": {
+                "type": "JAM",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643214,
+                    -33.407365
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.70369,
+                    -33.526299
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.636689,
+                    -33.546886
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0083",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.767285,
+                    -33.448891
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.755051,
+                    -33.526407
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.759479,
+                    -33.529065
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.760982,
+                    -33.469692
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_TRAFFIC_LIGHT_FAULT",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.547773,
+                    -33.523618
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.708414,
+                    -33.572383
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0089",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.64247,
+                    -33.446109
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.654939,
+                    -33.503285
+                ]
+            },
+            "properties": {
+                "type": "ACCIDENT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.624882,
+                    -33.454444
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.629215,
+                    -33.457887
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 2,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66582,
+                    -33.500445
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643402,
+                    -33.410084
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 7,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.648332,
+                    -33.476297
+                ]
+            },
+            "properties": {
+                "type": "ACCIDENT",
+                "subtype": "ACCIDENT_MINOR",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.542766,
+                    -33.591693
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.667053,
+                    -33.421209
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 9,
+                "confidence": 1,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.698282,
+                    -33.507753
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+                "reliability": 9,
+                "confidence": 2,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643536,
+                    -33.414003
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.582186,
+                    -33.40269
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.602905,
+                    -33.42925
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 9,
+                "confidence": 2,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643298,
+                    -33.408779
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.749234,
+                    -33.516092
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 7,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.547082,
+                    -33.523725
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 2,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.641026,
+                    -33.406444
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.624042,
+                    -33.465359
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 7,
+                "confidence": 1,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.633022,
+                    -33.443109
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643175,
+                    -33.406509
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.598172,
+                    -33.461432
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.648064,
+                    -33.451369
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66965,
+                    -33.420086
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.670239,
+                    -33.419817
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.675626,
+                    -33.360796
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.639138,
+                    -33.452395
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.691253,
+                    -33.457054
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.648294,
+                    -33.4776
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.755638,
+                    -33.526725
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.791249,
+                    -33.418089
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_VISIBLE",
+                "reliability": 7,
+                "confidence": 1,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61554,
+                    -33.422365
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_OBJECT",
+                "reliability": 10,
+                "confidence": 3,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.599456,
+                    -33.418705
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643354,
+                    -33.409558
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 8,
+                "confidence": 1,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.579093,
+                    -33.410643
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.612186,
+                    -33.574067
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.77347,
+                    -33.494691
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.657723,
+                    -33.394703
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "POLICE_HIDING",
+                "reliability": 8,
+                "confidence": 0,
+                "weight": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.632726,
+                    -33.445498
+                ]
+            },
+            "properties": {
+                "type": "CHIT_CHAT",
+                "subtype": "",
+                "reliability": 7,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.597503,
+                    -33.421671
+                ]
+            },
+            "properties": {
+                "type": "POLICE",
+                "subtype": "",
+                "reliability": 10,
+                "confidence": 1,
+                "weight": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643576,
+                    -33.414809
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.689531,
+                    -33.455058
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+                "reliability": 10,
+                "confidence": 5,
+                "weight": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.657618,
+                    -33.539079
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CAR_STOPPED",
+                "reliability": 5,
+                "confidence": 0,
+                "weight": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.643319,
+                    -33.408982
+                ]
+            },
+            "properties": {
+                "type": "ROAD_CLOSED",
+                "subtype": "ROAD_CLOSED_EVENT",
+                "reliability": 6,
+                "confidence": 0,
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "alert_0132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.702127,
+                    -33.428812
+                ]
+            },
+            "properties": {
+                "type": "HAZARD",
+                "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+                "reliability": 10,
+                "confidence": 4,
+                "weight": 7
+            }
+        }
+    ]
+}
